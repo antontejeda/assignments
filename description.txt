@@ -1,0 +1,2 @@
+ 
+I modified program to look for purchases of CARPET over USD 500.00  In the first quarter of 2017,  USD$ 237 K was spent on carpets between only 4 suppliers.  One of these suppliers “AMERICAS INTERIOR SERVICES CORPORATION” essentially sold 5 times more than the other three suppliers.
