@@ -19,6 +19,6 @@ def divide(a,b):
 x = divide (5,5)
 
 
-print "I'm going use the calculator functions to multiply 5 and 6"
+print "I'm going use the calculator functions to multiply 5 and 5"
 x = multiply(5,5)
 print x
