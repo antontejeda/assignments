@@ -23,3 +23,7 @@ function divide(a,b) {
 
 
 var x = divide (5,5)
+
+console.log("I'm going use the calculator functions to multiply 5 and 5")
+var x = multiply(5,5)
+console.log(x)
